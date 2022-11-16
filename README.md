@@ -5,4 +5,4 @@
 ## O que você vai encontrar aqui?
 - Notebook's 
 - Artigos
-
+- Programas em python para resolver equações de Schrodinger
